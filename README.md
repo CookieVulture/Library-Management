@@ -3,11 +3,12 @@
            “Library Management System” is a windows application written for 32-bit Windows operating systems, designed to help users maintain and organize library. Our software is easy to use for both beginners and advanced users. It features a familiar and well thought-out, an attractive user interface, combined with strong searching Insertion and reporting capabilities. The report generation facility of library system helps to get a good idea of which are the books borrowed by the members, makes users possible to generate reports’ hard copy.
 The software Library Management System has four main modules.
 
-	Insertion to Database Module – User friendly input screen
-	Extracting from Database module – Attractive Output Screen
-	Report Generation module – borrowed book list & Available book list
-	Search Facility system – search for books and members 
- 
+<ul>
+<li>Insertion to Database Module – User friendly input screen</li>
+	<li>Extracting from Database module – Attractive Output Screen</li>
+	<li>Report Generation module – borrowed book list & Available book list</li>
+	<li>Search Facility system – search for books and members </li>
+ </ul>
 SYSTEM ANALYSIS
 
             EXISTING SYSTEM:
@@ -15,23 +16,26 @@ SYSTEM ANALYSIS
 
          During analysis, data collected on the various files, decision points and transactions handled by the present system. The commonly used tools in the system are Data Flow Diagram, interviews, etc. Training, experience and common sense are required for collection of relevant information needed to develop the system. The success of the system depends largely on how clearly the problem is defined, thoroughly investigated and properly carried out through the choice of solution. A good analysis model should provide not only the mechanisms of problem understanding but also the frame work of the solution. Thus it should be studied thoroughly by collecting data about the system. Then the proposed system should be analyzed thoroughly in accordance with the needs.
 System analysis can be categorized into four parts.
-	System planning and initial investigation 
-	Information Gathering
-	Applying analysis tools for structured analysis
-	Feasibility study
-	Cost/ Benefit analysis.
-                   		
+<ul>
+<li>	System planning and initial investigation </li>
+<li>	Information Gathering</li>
+<li>	Applying analysis tools for structured analysis</li>
+<li>	Feasibility study</li>
+<li>	Cost/ Benefit analysis.</li>
+  </ul>
+  
 In our existing system all the transaction of books are done manually, So taking more time for a transaction like borrowing a book or returning a book and also for searching of members and books. Another major disadvantage is that to preparing the list of books borrowed and the available books in the library will take more time, currently it is doing as a one day process for verifying all records. So after conducting the feasibility study we decided to make the manual Library management system to be computerized.
 
 PROPOSED SYSTEM
 	Proposed system is an automated Library Management System. Through our software user can add members, add books, search members, search books, update information, edit information, borrow and return books in quick time. Our proposed system has the following advantages.
-	User friendly interface
-	Fast access to database
-	Less error
-	More Storage Capacity
-	Search facility
-	Look and Feel Environment
-	Quick transaction
+	<ul>
+<li>	User friendly interface	</li>
+<li>	Fast access to database	</li>
+<li>	Less error	</li>
+<li>	More Storage Capacity	</li>
+<li>	Search facility	</li>
+<li>	Look and Feel Environment	</li>
+<li>	Quick transaction	</li></ul>
 All the manual difficulties in managing the Library have been rectified by implementing computerization.
 
 
